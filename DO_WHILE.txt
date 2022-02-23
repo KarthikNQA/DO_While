@@ -12,8 +12,6 @@ do
 }
   while (a==5); 
 System.out.println("I am out of loop");
-}
-}
 
 
 
