@@ -4,7 +4,8 @@ public static void main(String[] args) {
 
 int a=6; int b=2; 
 do
-{ System.out.println(a);
+{ 
+System.out.println(a);
  if (a==5) 
  system.out.println("I'm expecting this output ...");
  } 
@@ -14,5 +15,6 @@ do
 
 System.out.println("I am out of loop");
 
-}}
+}
+}
 		
